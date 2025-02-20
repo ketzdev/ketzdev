@@ -23,6 +23,5 @@ class Skills extends Desenvolvedor {
 <img width="9%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <img width="8%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 
 <br>
-<br>
 
 # ![snake gif](https://github.com/ketzdev/ketzdev/blob/output/github-contribution-grid-snake.gif)
