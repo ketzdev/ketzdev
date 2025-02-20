@@ -30,3 +30,5 @@ class Skills extends Desenvolvedor {
     alt="Número de visitantes no perfil"
   />
 </p>
+
+# ![snake gif](https://github.com/ketzdev/ketzdev/blob/output/github-contribution-grid-snake.gif)
