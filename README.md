@@ -21,5 +21,4 @@ class Skills extends Desenvolvedor {
 }
 ```
 
-
 # ![snake gif](https://github.com/ketzdev/ketzdev/blob/output/github-contribution-grid-snake.gif)
