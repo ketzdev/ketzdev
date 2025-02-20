@@ -4,7 +4,7 @@
  - 📫 How to reach me: ketllynandrade7@gmail.com
 
 
- <img width="4%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <img width="3%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> 
+ <img width="5%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <img width="4%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> 
 
 ```js
 import Desenvolvedor from Ketzdev;
@@ -20,15 +20,6 @@ class Skills extends Desenvolvedor {
   linguagens = ["Java, Python"];
 }
 ```
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/ketzdev/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
 
 # ![snake gif](https://github.com/ketzdev/ketzdev/blob/output/github-contribution-grid-snake.gif)
