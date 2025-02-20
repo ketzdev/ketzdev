@@ -20,6 +20,7 @@ class Skills extends Desenvolvedor {
 }
 ```
 <br>
+
 <img width="9%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <img width="8%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 
 <br>
