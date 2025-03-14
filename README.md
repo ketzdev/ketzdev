@@ -8,10 +8,10 @@
 import Desenvolvedor from Ketzdev;
 
 class SobreMim extends Desenvolvedor {
-  nome = Ketllyn de Andrade;
-  area = Técnico em TI;
-  escola = Instistuto Federal de Santa Catarina;
-  local = Xanxere;
+  nome = ["Ketllyn de Andrade"];
+  area = ["Técnico em TI"];
+  instituição = ["Instistuto Federal de Santa Catarina"];
+  local = ["Xanxerê"];
 }
 
 class Skills extends Desenvolvedor {
