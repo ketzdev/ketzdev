@@ -11,7 +11,7 @@ class SobreMim extends Desenvolvedor {
   nome = ["Ketllyn de Andrade"];
   area = ["Técnico em Tecnologia da Informação"];
   instituição = ["Instistuto Federal de Santa Catarina"];
-  local = ["Xanxerê"];
+  local = ["Xanxerê, Santa Catarina"];
 }
 
 class Skills extends Desenvolvedor {
