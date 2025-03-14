@@ -1,7 +1,7 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
-
+            ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
 # Controls when the action will run.
 on:
   schedule:
@@ -51,4 +51,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-            ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
