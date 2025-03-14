@@ -10,7 +10,7 @@ import Desenvolvedor from Ketzdev;
 class SobreMim extends Desenvolvedor {
   nome = ["Ketllyn de Andrade"];
   area = ["Técnico em Tecnologia da Informação"];
-  instituição = ["Instistuto Federal de Santa Catarina"];
+  instituição = ["Instistuto Federal de Santa Catarina Câmpus Xanxerê"];
   local = ["Xanxerê, Santa Catarina"];
 }
 
