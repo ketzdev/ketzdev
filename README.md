@@ -2,22 +2,7 @@
 
  🌱 I’m currently learning Python, Java and JavaScript 
  - 📫 How to reach me: ketllynandrade7@gmail.com
-<br>
 
-```js
-import Desenvolvedor from Ketzdev;
-
-class SobreMim extends Desenvolvedor {
-  nome = ["Ketllyn de Andrade"];
-  area = ["Técnico em Tecnologia da Informação"];
-  instituição = ["Instistuto Federal de Santa Catarina Câmpus Xanxerê"];
-  local = ["Xanxerê, Santa Catarina"];
-}
-
-class Skills extends Desenvolvedor {
-  linguagens = ["Java, Python"];
-}
-```
 <br>
 
 <img width="9%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <img width="8%" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
